@@ -1,0 +1,17 @@
+[user]
+	email = aabushnell@gmail.com
+	name = Aaron Bushnell
+[init]
+  defaultBranch = main
+[core]
+  editor = nvim
+[alias]
+  a = add
+  ap = add -p
+  ############
+  c = commit
+  cm = commit -m
+  ############
+  d = diff
+  ############
+  s = status
